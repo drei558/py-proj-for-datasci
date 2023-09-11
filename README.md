@@ -1,2 +1,2 @@
 # py-proj-for-datasci
-Hands on labs for IBM Coursera classes.
+Hands-on labs for IBM Data Analytst Professional Certificate classes.
